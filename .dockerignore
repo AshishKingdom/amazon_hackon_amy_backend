@@ -1,0 +1,6 @@
+__pycache__/
+.tmp/
+.venv/
+db/
+datasets/
+datasets.zip
