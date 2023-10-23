@@ -4,3 +4,4 @@ __pycache__/
 db/
 datasets/
 datasets.zip
+tmp/
