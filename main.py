@@ -1,8 +1,8 @@
 from dotenv import load_dotenv
 load_dotenv()
+from fastapi import FastAPI
 from embedchain import App
 from time import sleep
-from fastapi import FastAPI
 from schema import UserQuery, UserQueryResponse
 
 
